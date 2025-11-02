@@ -1,2 +1,1 @@
-# RTX-in-Godot-Engine-Ray-Tracing-
-This resource will help you quickly create a game with RTX support in the Godot engine.
+This resource will help you quickly create an RTX game in Godot Engine. You need to download the ZIP file, extract the Addons folder from it, and move it to your Godot Engine project. If the Addons folder already exists, simply extract the RTX folder and move it into Addons. To create a game, you need to create a new 3D scene and initialize a child scene by selecting the Control scene, then open Map and create objects in it.
